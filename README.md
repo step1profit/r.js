@@ -1,2 +1,2 @@
 # r.js
-Ruby-style methods written in javascript
+Ruby core methods written as javascript functions

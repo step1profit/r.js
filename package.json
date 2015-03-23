@@ -1,6 +1,6 @@
 {
   "name": "r.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ruby core methods written as javascript functions",
   "main": "r.js",
   "scripts": {

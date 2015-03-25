@@ -1,5 +1,10 @@
 # r.js
 
+[![npm version](https://badge.fury.io/js/r.js.svg)](http://badge.fury.io/js/r.js)
+[![Build Status](https://travis-ci.org/step1profit/r.js.svg)](https://travis-ci.org/step1profit/r.js)
+[![Code Climate](https://codeclimate.com/github/step1profit/r.js/badges/gpa.svg)](https://codeclimate.com/github/step1profit/r.js)
+[![Test Coverage](https://codeclimate.com/github/step1profit/r.js/badges/coverage.svg)](https://codeclimate.com/github/step1profit/r.js)
+
 * https://www.npmjs.com/package/r.js
 * https://github.com/step1profit/r.js
 

@@ -3,15 +3,15 @@
 * https://www.npmjs.com/package/r.js
 * https://github.com/step1profit/r.js
 
-## DESCRIPTION:
+## DESCRIPTION
 
 Ruby core methods written as javascript functions
 
-## FEATURES:
+## FEATURES
 
 * Runs as frontend lib or node module
 
-## INSTALLATION:
+## INSTALLATION
 
 Frontend Lib
 ```html
@@ -23,7 +23,7 @@ Node.js
 $ npm install r.js
 ```
 
-## SYNOPSIS:
+## SYNOPSIS
 
 ```javascript
 // Object Functions
@@ -56,11 +56,11 @@ R.except(hash1, keys_array); // returns new hash with key value pairs from hash1
 R.merge(hash1, hash2); // returns new hash of combined key value pairs hash1 with hash2, where hash2 keys overwrite corresponding keys in hash1
 ```
 
-## REQUIREMENTS:
+## REQUIREMENTS
 
 ...
 
-## LICENSE:
+## LICENSE
 
 The MIT License (MIT)
 

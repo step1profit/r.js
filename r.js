@@ -38,6 +38,7 @@
 
       function _isHash(o) {
         if (typeof o!=='object') return false;
+        if (o===null) return false;
         if (Array.isArray(o)) return false;
         return true;
       }

@@ -4,7 +4,7 @@
   "description": "Ruby core methods written as javascript functions",
   "main": "r.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/step1profit/r.js/issues"
   },
-  "homepage": "https://github.com/step1profit/r.js"
+  "homepage": "https://github.com/step1profit/r.js",
+  "devDependencies": {
+    "jest-cli": "^0.4.0"
+  }
 }

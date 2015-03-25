@@ -18,7 +18,7 @@ describe('blank', function() {
     expect(R.blank(arg)).toBe(false);
   });
 
-  it('should return false when arg is empty array', function() {
+  it('should return true when arg is empty array', function() {
     var arg = [];
     expect(R.blank(arg)).toBe(true);
   });
